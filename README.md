@@ -1,16 +1,16 @@
-# EmotionViA: Emotion Recognition from Videos via Attention-Enhanced CNN-LSTM Architecture
+# EmoPOI: Emotion-Based Point of Interest002 002 Recommendation
 
-<img style="max-width: 100%;" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/wax.png" alt="VERHM Overview">
+<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/DT3DPE/blob/main/resources/wax.png" alt="VERHM Overview">
 
 # Overview
 
-This paper presents EmotionViA, a real-time framework for recognizing emotions from facial expressions in videos. It combines CNNs for spatial feature extraction, LSTMs for capturing temporal dynamics, and an attention mechanism to integrate these features effectively. The EmotionViA dataset, featuring diverse emotional expressions, enhances the framework's performance and adaptability. Experiments on EmoPoi and FER-2013 datasets show that it surpasses state-of-the-art methods. EmotionViA has wide applications in fields like education, healthcare, entertainment, and marketing, improving user experiences.
+This work introduces an emotion-aware POI recommendation system that uses facial features and video-based emotion recognition (CNN + LSTM) along with age and gender. It also proposes the EmoPOI dataset and achieves improved accuracy over existing methods.
 
 # 👁️💬 Architecture
 
-This section outlines the methodology for facial emotion recognition from videos, integrating CNNs, LSTMs, and an attention mechanism for enhanced performance. CNNs extract key facial features from video frames, while LSTMs capture temporal dependencies to track evolving emotions. An intra-modal attention mechanism highlights relevant facial cues, supported by tensor construction, tensor train layers for efficient high-dimensional processing, and dense layers for pattern refinement. This approach ensures accurate recognition by focusing on expressive facial regions like the eyes, nose, and mouth.
+The overview of the proposed methodology.
 
-<img style="max-width: 100%;" src="https://github.com/swerizwan/emopoi/blob/main/resources/architecture.png" alt="EMOPOI Overview">
+<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/emopoi/blob/main/resources/architecture.png" alt="EMOPOI Overview">
 
 # Workflow
 

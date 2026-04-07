@@ -1,4 +1,4 @@
-# EmoPOI: Emotion-Based Point of Interest002 002 Recommendation
+# EmoPOI: Emotion-Based Point of Interest Recommendation
 
 <img style="max-width: 100%;" src="https://github.com/rizwanchouhan/DT3DPE/blob/main/resources/wax.png" alt="VERHM Overview">
 

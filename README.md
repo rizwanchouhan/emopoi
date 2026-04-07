@@ -10,7 +10,7 @@ This work introduces an emotion-aware POI recommendation system that uses facial
 
 The overview of the proposed methodology.
 
-<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/emopoi/blob/main/resources/architecture.png" alt="EMOPOI Overview">
+<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/emopoi/blob/main/resources/overview.jpg" alt="EMOPOI Overview">
 
 # Workflow
 

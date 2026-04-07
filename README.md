@@ -1,10 +1,10 @@
 # EmotionViA: Emotion Recognition from Videos via Attention-Enhanced CNN-LSTM Architecture
 
-<img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="Oryx Video-ChatGPT" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
+<img style="max-width: 100%;" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/wax.png" alt="VERHM Overview">
 
 # Overview
 
-This paper presents EmotionViA, a real-time framework for recognizing emotions from facial expressions in videos. It combines CNNs for spatial feature extraction, LSTMs for capturing temporal dynamics, and an attention mechanism to integrate these features effectively. The EmotionViA dataset, featuring diverse emotional expressions, enhances the framework's performance and adaptability. Experiments on EmotionViA, FER-2013, AffectNet, and RAF-DB datasets show that it surpasses state-of-the-art methods. EmotionViA has wide applications in fields like education, healthcare, entertainment, and marketing, improving user experiences.
+This paper presents EmotionViA, a real-time framework for recognizing emotions from facial expressions in videos. It combines CNNs for spatial feature extraction, LSTMs for capturing temporal dynamics, and an attention mechanism to integrate these features effectively. The EmotionViA dataset, featuring diverse emotional expressions, enhances the framework's performance and adaptability. Experiments on EmoPoi and FER-2013 datasets show that it surpasses state-of-the-art methods. EmotionViA has wide applications in fields like education, healthcare, entertainment, and marketing, improving user experiences.
 
 # 👁️💬 Architecture
 
@@ -49,10 +49,6 @@ To get started, ensure you have the necessary libraries installed:
 - **FER-2013:** You can download the FER2013 dataset from [here](https://www.kaggle.com/datasets/msambare/fer2013).
 
 - **EmoPOI:** EmoPOI dataset samples are available [here](https://drive.google.com/file/d/1TtJNkrWSFkIMW72-xnpBuRD7LTuxSEal/view?usp=sharing). The complete EmoPOI dataset will be available upon request for research purposes after the paper is accepted.
-
-- **AffectNet:** You can download the AffectNet dataset from [here](http://mohammadmahoor.com/affectnet/).
-
-- **RAF-DB:** You can download the RAF-DB dataset from [here](https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset).
 
 # Steps to Run the Demo
 

@@ -48,5 +48,5 @@ To get started, ensure you have the necessary libraries installed:
 
 - **FER-2013:** You can download the FER2013 dataset from [here](https://www.kaggle.com/datasets/msambare/fer2013).
 
-- **EmoPOI:** EmoPOI dataset samples are available [here](https://drive.google.com/file/d/1TtJNkrWSFkIMW72-xnpBuRD7LTuxSEal/view?usp=sharing). The complete EmoPOI dataset will be available upon request for research purposes after the paper is accepted.
+- **EmoPOI:** The complete EmoPOI dataset will be available upon request for research purposes after the paper is accepted.
 _age_gender_recognition.py` (provide the proper path to your video). Based on the recognized emotion, gender, and age group, you will receive personalized POI recommendations suited to the user's preferences.

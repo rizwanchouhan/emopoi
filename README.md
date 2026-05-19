@@ -1,4 +1,4 @@
-# EmoPOI: Emotion-Based Point of Interest Recommendation
+# Emotion-Driven POI Recommendation with Deep Facial Feature Analysis
 
 <img style="max-width: 100%;" src="https://github.com/rizwanchouhan/emopoi/blob/main/resources/wax.png" alt="VERHM Overview">
 
